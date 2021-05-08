@@ -1,6 +1,6 @@
 </br></br>
 <p align="center">
-<img src="https://img.icons8.com/color/26/000000/github-2.png"/>
+<img src="https://cdn.discordapp.com/emojis/821461067728814130.png?v=1"/>
 </p>
 
  </br>
