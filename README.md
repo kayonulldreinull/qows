@@ -1,17 +1,19 @@
 </br></br>
 <p align="center">
 <img src="https://cdn.discordapp.com/emojis/821461067728814130.png?v=1"/>
-</a>
-<a href="mailto:count@fbi.ac">
-  <img align="center" src="https://komarev.com/ghpvc/?username=aagk&label=Faith" />
-</a>
 </p>
-
  </br>
 <p align="center">
+
 <samp>
 I'm Faithful A Skid
 </samp>
+</a>
+<p align="center">
+<a href="mailto:count@fbi.ac">
+  <img align="center" src="https://komarev.com/ghpvc/?username=aagk&label=Faith" />
+  </p>
+</a>
 </br></br>
 </p>
 <samp>
