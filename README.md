@@ -19,10 +19,12 @@ I'm Faithful A Skid
 <br/>
 
 <h2 align="center"><samp>extra</samp></h2>
-
+<p align="center">
 <a href="mailto:count@fbi.ac">
   <img align="center" src="https://github-stats-51zyiojh0.vercel.app/api?username=aagk&bg_color=00000000&title_color=ff6e96&text_color=A5A5B6&hide_border=true&show_icons=true&count_private=true" />
 </a>
 <a href="mailto:count@fbi.ac">
   <img align="center" src="https://discord.c99.nl/widget/theme-4/836698737128112178.png" />
 </a>
+![](https://komarev.com/ghpvc/?username=aagk&label=Faith)
+</p>
