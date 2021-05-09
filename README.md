@@ -26,5 +26,7 @@ I'm Faithful A Skid
 <a href="mailto:count@fbi.ac">
   <img align="center" src="https://discord.c99.nl/widget/theme-4/836698737128112178.png" />
 </a>
-![](https://komarev.com/ghpvc/?username=aagk&label=Faith)
+<a href="mailto:count@fbi.ac">
+  <img align="center" src="https://komarev.com/ghpvc/?username=aagk&label=Faith" />
+</a>
 </p>
