@@ -18,7 +18,7 @@ I'm Faithful A Skid
 </p>
 <samp>
 <p align="center">
-<a href="mailto:count@fbi.ac">e-mail</a> | <a href="https://discord.com/users/836698737128112178/">discord</a> | <a href="https://twitter.com/Faith">twitter</a> | <a href="https://steamcommunity.com/id/faithful">steam</a> | <a href="https://telegram.com/faith">telegram</a>
+<a href="mailto:count@fbi.ac">e-mail</a> | <a href="https://discord.com/users/836698737128112178/">discord</a> | <a href="https://twitter.com/Faith">twitter</a> | <a href="https://steamcommunity.com/id/faithful">steam</a> | <a href="https://telegram.com/istolemydadspc">telegram</a>
 </p>
 
 <br/>
