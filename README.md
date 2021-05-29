@@ -10,7 +10,7 @@
   <img src="https://discord.c99.nl/widget/theme-4/846050845945757758.png" />
 </p>
 <p align="center">
-Currently learning JavaScript
+Currently learning Go
 <p align="center">
     <a href="https://discord.gg/sexo">Discord Server</a>
 
@@ -43,7 +43,7 @@ Bozo
 </p>
 </details>
 <details>
-  <summary>Support</summary>
+  <summary>Support Me</summary>
 <p align="center"> 
     ﹒
     <a href="https://discord.com/api/oauth2/authorize?client_id=846085581230178374&permissions=8&scope=bot">Invite my bot</a>
