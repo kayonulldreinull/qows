@@ -38,9 +38,7 @@ Currently learning Go
     ﹒
     <a href="https://t.me/istolemydadspc">Telegram</a>
     ﹒
-<p align="center">
-Bozo
-</p>
+    </p>
 </details>
 <details>
   <summary>Support Me</summary>
