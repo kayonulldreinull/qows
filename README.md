@@ -12,5 +12,4 @@
 <p align="center">
 Currently learning Go
 <p align="center">
-    <a href="https://skidded.xyz">Website</a>
-    <a href="https://discord.gg/sexo">Discord Server</a>
+    . <a href="https://skidded.xyz">Website</a> . <a href="https://discord.gg/sexo">Discord Server</a> .
