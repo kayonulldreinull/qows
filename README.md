@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://cdn.discordapp.com/emojis/845046412634226688.gif?v=1">
+<img src="https://media.tenor.com/images/f54694fbda340cf35124bd64ddd8bc9e/tenor.gif">
 </p>
 <p align="center">
     Faith
@@ -12,4 +12,4 @@
 <p align="center">
 Currently learning Go
 <p align="center">
-    . <a href="https://skidded.xyz">Website</a> . <a href="https://discord.gg/sexo">Discord Server</a> .
+    . <a href="https://skidded.xyz">Website</a> . <a href="https://discord.com/users/846050845945757758">Discord</a> .
